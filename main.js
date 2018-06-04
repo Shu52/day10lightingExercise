@@ -6,4 +6,4 @@ if(lastName.length >=7){
 }
 else if(lastName.length< 7){
     console.log(lastName);
-}
+};
